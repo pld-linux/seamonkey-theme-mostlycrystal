@@ -1,6 +1,6 @@
 %define		_realname	mostlycrystal
 Summary:	Mostly Crystal for SeaMonkey
-Summary(pl.UTF-8):   Motyw Mostly Crystal dla przeglądarki SeaMonkey
+Summary(pl.UTF-8):	Motyw Mostly Crystal dla przeglądarki SeaMonkey
 Name:		seamonkey-theme-mostlycrystal
 Version:	2006.04.17
 Release:	1
